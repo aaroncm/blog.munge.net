@@ -1,6 +1,6 @@
 baseurl = "http://blog.munge.net"
 languageCode = "en-us"
-title = "blog.munge"
+title = "blog munge net"
 theme = "purehugo"
 
 [params]
