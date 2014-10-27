@@ -1,0 +1,9 @@
+baseurl = "http://blog.munge.net"
+languageCode = "en-us"
+title = "blog.munge"
+theme = "purehugo"
+
+[params]
+Description = "five out of eight computers on the scale of computers"
+twitter = "AaronM"
+github = "aaroncm"

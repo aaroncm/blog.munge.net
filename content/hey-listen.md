@@ -1,7 +1,7 @@
 ---
 title: Hey, Listen
-date: 03.09.2013, 16:02
-tags: [empathy, personal, feminism]
+date: 2013-09-03T16:02:00
+categories: [empathy, personal, feminism]
 ---
 So today on twitter, [a dear friend](http://twitter.com/sleeeaze) brought up the subject of how *empathy* differs from *sympathy* and the importance of learning it. It's not a skill that is really valued or emphasized in our culture, which is arguably one of the reasons we tend to have so much difficulty having a real discussion about difficult subjects.
 
@@ -15,7 +15,7 @@ The thing that stands out to me today in recalling the reactions to her story is
 
 Another catalyst was, in an odd turn, following some joke-making twitter accounts, especially Amber aka [@rare_basement](http://twitter.com/rare_basement). She's a very funny person, but also just talked about her life; from money problems to escaping heroin addiction to outright falling in love across twitter. She would also talk about being sexualized/objectified by certain twitter followers, and the awful things they would tweet to her. I  noticed a pattern among people who said funny things on twitter; that there was a class of follower that would get upset, even irate, at the jokeperson having the temerity to talk about real life instead of the constant comedy tweets that the followers apparently thought they had paid for.
 
-I'm an extremely shy person (fun fact: as I was writing that sentence, I first typed "extremely shit person", good work Freud), and tend to shrink away from replying to twitter people that I don't already know. The thing about that is that even if my initial reaction was to disagree, I didn't automatically get into an argument. I started to just listen to what people had to say; to realize that their feelings were valid outside of my own experience. To try to understand their feelings without reflexive judgement; to really try to see their perspective instead of looking for an opening to reaffirm mine.
+I'm an extremely shy person (_fun fact: as I was writing that sentence, I first typed "extremely shit person", good work Freud_), and tend to shrink away from replying to twitter people that I don't already know. The thing about that is that even if my initial reaction was to disagree, I didn't automatically get into an argument. I started to just listen to what people had to say; to realize that their feelings were valid outside of my own experience. To try to understand their feelings without reflexive judgement; to really try to see their perspective instead of looking for an opening to reaffirm mine.
 
 I'd long considered myself a feminist, or feminist ally, but while I had been upset at the misogyny I saw, I realized that my concept of feminism was about exactly that; *my* feelings about misogyny. This isn't to say that my own feelings are without merit, but part of being an actual ally is to recognize when you are putting your own status above those of the group you supposedly support. Reexamining my assumptions and really listening to people--especially people whose opinions differ from mine--has vastly improved my understanding of feminism and the often-complicated issues involved.
 
