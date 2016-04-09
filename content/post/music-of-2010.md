@@ -1,7 +1,7 @@
 ---
 title: "Music of 2010"
 date: 2010-12-27T10:29:00
-categories: [music, lists]
+tags: [music, lists]
 ---
 My annual *(note: not actually annual)* non-definitive list of albums I liked
 from the last year. 

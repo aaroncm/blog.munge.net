@@ -1,7 +1,7 @@
 ---
 title: Picking Up
 date: 2013-06-19T11:28:00
-categories: [feminism, rape culture]
+tags: [feminism, rape culture]
 ---
 *originally posted on tumblr*
 
@@ -22,6 +22,7 @@ As I'm writing this, someone just posted a link to a [Kotaku story](http://kotak
 > You might want to think that these women should have said or done something to defend themselves. Don't. Because there's a common theme here: immobility. When you're approached or attacked like this, you can find yourself paralyzed. Confused. Unsure of how to respond.
 
 These men are doing real damage to women, and PUA 'techniques' are part of their arsenal. The PUA manual guy whose kickstarter inspired this post says things like
+
 > Don't ask for permission. Be dominant. Force her to rebuff your advances.
 
 See how that kind of shit is harmful yet?

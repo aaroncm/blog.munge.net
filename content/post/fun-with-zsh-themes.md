@@ -1,7 +1,7 @@
 ---
 title: "Fun with zsh themes"
 date: 2011-10-17T23:40:00
-categories: [git, code]
+tags: [git, code]
 ---
 
 I've been having lots of fun for the last couple of weeks mucking about with different version control systems; choosing whether to focus personally on [Git][git] or [Mercurial][hg] (Git won, though only just), and getting comfortable with it.

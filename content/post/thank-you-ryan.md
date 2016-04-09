@@ -1,7 +1,7 @@
 ---
 title: Thank You, Ryan
 date: 2013-07-08T15:04:00
-categories: [gaming, personal]
+tags: [gaming, personal]
 ---
 > So the only time I met Ryan Davis in person, he gave me Giant Bomb stickers and told me to put them on cop cars.
 > &mdash; [Andy Keener (@reibeatall)](https://twitter.com/reibeatall/statuses/354325056370905088)

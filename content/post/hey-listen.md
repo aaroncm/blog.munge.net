@@ -1,9 +1,9 @@
 ---
 title: Hey, Listen
 date: 2013-09-03T16:02:00
-categories: [empathy, personal, feminism]
+tags: [empathy, personal, feminism]
 ---
-So today on twitter, [a dear friend](http://twitter.com/sleeeaze) brought up the subject of how *empathy* differs from *sympathy* and the importance of learning it. It's not a skill that is really valued or emphasized in our culture, which is arguably one of the reasons we tend to have so much difficulty having a real discussion about difficult subjects.
+So today on twitter, [a dear friend](http://twitter.com/ClareEriko) brought up the subject of how *empathy* differs from *sympathy* and the importance of learning it. It's not a skill that is really valued or emphasized in our culture, which is arguably one of the reasons we tend to have so much difficulty having a real discussion about difficult subjects.
 
 At the end of a series of tweets, she said "Alright class over go home". I joked "will this be on the test", and got back "no but I want to hear next week about your experiences putting this into practice in everyday life". I figure that's probably a good exercise, and I've been meaning to write some more anyway; why not talk a little about my journey toward empathy?
 
@@ -19,7 +19,7 @@ I'm an extremely shy person (_fun fact: as I was writing that sentence, I first 
 
 I'd long considered myself a feminist, or feminist ally, but while I had been upset at the misogyny I saw, I realized that my concept of feminism was about exactly that; *my* feelings about misogyny. This isn't to say that my own feelings are without merit, but part of being an actual ally is to recognize when you are putting your own status above those of the group you supposedly support. Reexamining my assumptions and really listening to people--especially people whose opinions differ from mine--has vastly improved my understanding of feminism and the often-complicated issues involved.
 
-What's really difficult though, as [my friend notes](https://twitter.com/sleeeaze/status/374995031394115584), is learning to empathize with those you disagree with, even vehemently. Empathizing doesn't mean that you come around to their point of view, mind; but that you try to understand how they got there without automatically discounting it. Honestly engaging with someone else's perspective is an extraordinarily powerful tool for learning.
+What's really difficult though, is learning to empathize with those you disagree with, even vehemently. Empathizing doesn't mean that you come around to their point of view, mind; but that you try to understand how they got there without automatically discounting it. Honestly engaging with someone else's perspective is an extraordinarily powerful tool for learning.
 
 Now, please don't think that I'm trying to brag about how great I am at this, because I'm not. I'm learning, and it's often a real struggle. I still have knee-jerk reactions about other people that are often extremely unfair. But I try to stop and interrogate those reactions now; to ask why I'm having them, and what that other person might think from their perspective, and just *maybe* I'm actually a little full of shit.
 
