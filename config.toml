@@ -1,4 +1,4 @@
-baseurl = "http://blog.munge.net"
+baseurl = "http://blog.munge.net/"
 languageCode = "en-us"
 title = "blog munge net"
 theme = "blackburn"
